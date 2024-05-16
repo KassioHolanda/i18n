@@ -44,5 +44,21 @@
     "General Info":"Informações gerais",
     "Security": "Segurança",
     "Support": "Suporte",
-    "Filter by Type": "Filtrar por tipo"
+    "Filter by Type": "Filtrar por tipo",
+    "Generate Report": "Gerar Relatório",
+    "Attach file": "Anexar arquivo",
+    "Uploading files...": "Enviando arquivos...",
+    "There was an error uploading files, please try again!": "Ocorreu um erro ao enviar os arquivos, porfavor tente novamente!",
+    "Files successfully uploaded!": "Arquivo enviado com sucesso!",
+    "Are you sure you want remove this file?": "Você tem certeza que deseja remover esse arquivo?",
+    "Removing file...": "Removendo arquivo...",
+    "Files removed successfully": "Arquivo removido com sucesso",
+    "Downloading file...": "Baixando arquivo...",
+    "Files downloaded successfully": "Download concluído com sucesso",
+    "Audit": "Inspeção",
+    "Date of Audit": "Data da Inspeção",
+    "Asset": "Aeronave",
+    "No report file found": "Nenhum relatório encontrado",
+    "Export Audit": "Exportar Inspeção",
+    "Reports": "Relatórios"
 }
