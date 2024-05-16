@@ -35,5 +35,6 @@
     "Suggest a Feature": "Sugerir funcionalidade",
     "All data is stored in the USA at AWS servers with all optional security appliances contracted, ensuring a high level of security.": "Todos os dados são armazenados em servidores da AWS nos EUA, com todos os dispositivos de segurança opcionais contratados, garantindo um alto nível de segurança.",
     "How secure is the data stored in the system?": "Qual o nível de segurança dos dados que estão salvos no sistema?",
-    "Description": "Descrição"
+    "Description": "Descrição",
+    "Country": "País"
 }
