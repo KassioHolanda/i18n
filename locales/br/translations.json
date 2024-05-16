@@ -39,5 +39,9 @@
     "Country": "País",
     "Customer": "Cliente",
     "Audit Details": "Detalhar Inspeção",
-    "History": "Histórico"
+    "History": "Histórico",
+    "Search Question": "Pesquisar questão",
+    "General Info":"Informações gerais",
+    "Security": "Segurança",
+    "Support": "Suporte"
 }
