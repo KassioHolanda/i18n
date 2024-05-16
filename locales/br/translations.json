@@ -62,5 +62,19 @@
     "Export Audit": "Exportar Inspeção",
     "Reports": "Relatórios",
     "items fulfilled": "Itens preenchidos",
-    "Contact Info": "Informações de Contato"
+    "Contact Info": "Informações de Contato",
+    "Date of Manufacture": "Data de Fabricação",
+    "Due Date": "Data de Vencimento",
+    "Asset Registry": "Registro Aeronave",
+    "Inspector": "Inspetor",
+    "Operator": "Operador",
+    "Region": "Região",
+    "Project": "Projeto",
+    "Audit Number": "Número da Inspeção",
+    "Audit General Info": "Informações gerais da Inspeção",
+    "Audit Items": "Itens da Inspeção",
+    "Registry": "Registro",
+    "Type": "Tipo",
+    "Comments": "Comentários",
+    "Actions": "Ações"
 }
