@@ -87,5 +87,17 @@
     "Category": "Categoria",
     "Location": "Localização",
     "Open Date": "Data de Abertura",
-    "Deadline": "Prazo final"
+    "Deadline": "Prazo final",
+    "Tracking Items": "Itens de rastreamento",
+    "Physical Findings": "Descobertas Físicas",
+    "Record Findings": "Registrar Descobertas",
+    "Asset Main Images": "Imagens Principais do Ativo",
+    "Asset Additional Images": "Imagens Adicionais do Ativo",
+    "Copy Of Records": "Cópia dos Registros",
+    "Categories": "Categorias",
+    "Copy of Registry": "Cópia do Registro",
+    "Document Name": "Nome do Documento",
+    "Document Filename": "Nome do Arquivo do Documento",
+    "COPY OF AIRWORTHINESS CERTIFICATE": "CÓPIA DO CERTIFICADO DE AERONAVEGABILIDADE"
+    
 }
