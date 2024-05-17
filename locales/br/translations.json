@@ -79,5 +79,14 @@
     "Actions": "Ações",
     "Operation Country": "País de Operação",
     "Manufacturer": "Fabricante",
-    "Register": "Registro"
+    "Register": "Registro",
+    "Lead Inspector": "Inspetor Lider",
+    "Audit Scope": "Escopo da Inspeção",
+    "Audit Type": "Tipo de Inspeção",
+    "Asset Manager": "Gerente da Aeronave",
+    "Audit Company": "Empresa da Auditoria",
+    "Category": "Categoria",
+    "Location": "Localização",
+    "Open Date": "Data de Abertura",
+    "Deadline": "Prazo final"
 }
