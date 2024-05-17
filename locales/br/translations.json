@@ -1,7 +1,7 @@
 {
     "My Profile": "Meu Perfil",
     "Welcome": "Bem vindo",
-    "Your last log in was": "Seu ultimo acesso foi",
+    "Your last log in was": "Seu último acesso foi",
     "Inspections by Status": "Inspeções por Status",
     "Inspections by Aircraft Model": "Inspeções por Aeronave",
     "Inspections by Type": "Inspeções por Tipo",
@@ -72,7 +72,6 @@
     "Project": "Projeto",
     "Audit Number": "Número da Inspeção",
     "Audit General Info": "Informações gerais da Inspeção",
-    "Audit Items": "Itens da Inspeção",
     "Registry": "Registro",
     "Type": "Tipo",
     "Comments": "Comentários",
