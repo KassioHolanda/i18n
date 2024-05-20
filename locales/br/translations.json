@@ -150,5 +150,8 @@
     "Variable name": "Nome da variável",
     "Variable datatype": "Tipo da variável",
     "Checklist Item": "Item do Checklist",
-    "Basic":"Básico"
+    "Basic":"Básico",
+    "Filters":"Filros",
+    "Columns":"Colunas"
+
 }
