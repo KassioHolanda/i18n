@@ -16,7 +16,7 @@
     "Assets": "Aeronaves",
     "assets": "Aeronaves",
     "Report Templates": "Modelo de Relatório",
-    "report_templates": "Modelo de Relatório",
+    "report templates": "Modelo de Relatório",
     "Checklists": "Listas de Verificação",
     "Valuation Items": "Itens de Avaliação",
     "Asset Components": "Componentes da Aeronave",
@@ -148,6 +148,4 @@
     "Variable datatype": "Tipo da variável",
     "Checklist Item": "Item do Checklist",
     "Basic":"Básico"
-
-
 }
