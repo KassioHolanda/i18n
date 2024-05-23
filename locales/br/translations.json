@@ -322,5 +322,9 @@
     "Valuation item successfully deleted.": "Item de avaliação excluído com sucesso.",
     "Updating valuation item...": "Atualizando item de avaliação...",
     "Valuation item successfully updated.": "Item de avaliação atualizado com sucesso.",
-    "Valuation item successfully created.": "Item de avaliação criado com sucesso."
+    "Valuation item successfully created.": "Item de avaliação criado com sucesso.",
+    "Creating an": "Criando um",
+    "Asset Manufacturer": "Fabricante de Ativos",
+    "Editing an": "Editando um"
+
 }
