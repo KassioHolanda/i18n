@@ -345,5 +345,22 @@
     "Val. Items":"Val. Itens",
     "Value": "Valor",
     "Manager" : "Administrador",
-    "manager": "Administrador"
+    "manager": "Administrador",
+    "Go back": "Voltar",
+    "Go back to home": "Voltar para o início",
+    "Add": "Adicionar",
+    "New": "Novo",
+    "Company Type": "Tipo de Empresa",
+    "Editing company": "Editando empresa",
+    "Creating a new": "Criando uma nova",
+    "Companies": "Empresas",
+    "Edit": "Editar",
+    "Deactivated": "Desativado",
+    "Activated": "Ativado",
+    "Owner": "Proprietário",
+    "Customer": "Cliente",
+    "Template Settings": "Configuração de Template",
+    "Click here or drag and drop a file to update.": "Clique aqui ou solte um arquivo para atualizar",
+    "Click here or drag and drop files to upload.": "Clique aqui ou solte os arquivos para enviar",
+    "Current file": "Arquivo atual"
 }
