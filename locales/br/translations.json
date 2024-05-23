@@ -343,5 +343,6 @@
     "Part Number": "Número da Peça",
     "Datatype": "Tipo de Dados",
     "Val. Items":"Val. Itens",
-    "Value": "Valor"
+    "Value": "Valor",
+    "Manager" : "Administrador"
 }
