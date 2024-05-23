@@ -344,5 +344,6 @@
     "Datatype": "Tipo de Dados",
     "Val. Items":"Val. Itens",
     "Value": "Valor",
-    "Manager" : "Administrador"
+    "Manager" : "Administrador",
+    "manager": "Administrador"
 }
