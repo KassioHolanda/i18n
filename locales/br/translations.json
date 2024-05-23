@@ -325,6 +325,22 @@
     "Valuation item successfully created.": "Item de avaliação criado com sucesso.",
     "Creating an": "Criando um",
     "Asset Manufacturer": "Fabricante de Ativos",
-    "Editing an": "Editando um"
-
+    "Editing an": "Editando um",
+    "Serial number": "Número de série",
+    "Manufacture Date (Year)": "Data de Fabricação (Ano)",
+    "Shortname": "Nome abreviado",
+    "Alias": "Apelido",
+    "Asset Type": "Tipo de Ativo",
+    "Component Type": "Tipo de Componente",
+    "Part numbers": "Números de Peça",
+    "Parameter": "Parâmetro",
+    "Variable Name": "Nome da Variável",
+    "Variable Datatype": "Tipo de Variável",
+    "Image Category": "Categoria da Imagem",
+    "Observation": "Observação",
+    "Status": "Status",
+    "Op. Feedback": "Feedback do Operador",
+    "Part Number": "Número da Peça",
+    "Datatype": "Tipo de Dados",
+    "Val. Items":"Val. Itens"
 }
