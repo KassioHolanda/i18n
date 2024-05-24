@@ -472,6 +472,6 @@
     "Interval": "Intervalo",
     "Source": "Fonte",
     "Variable Datatype": "Tipo de Dados Variável",
-    "Text": "Texto",
-    "Number": "Número"
+    "text": "Texto",
+    "number": "Número"
 }
