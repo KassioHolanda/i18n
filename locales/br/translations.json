@@ -475,5 +475,8 @@
     "text": "Texto",
     "number": "Número",
     "Remove category": "Remover Categoria",
-    "Are you sure you want to delete this category?": "Você tem certeza que deseja remover essa categoria?"
+    "Are you sure you want to delete this category?": "Você tem certeza que deseja remover essa categoria?",
+    "What is the general structure of the system?": "Qual é a estrutura geral do sistema?",
+    "The system consists of a desktop application accessed through a browser and an Android app (currently in development) for handling inspection photos. Inspectors answer checklist titles, upload records, and manage audits in the desktop application. The system is structured around checklist-report template pairs. Checklists are composed of various items, and report templates are programmed based on provided Word documents.": "O sistema consiste em um aplicativo para desktop acessado por meio de um navegador e um aplicativo para Android (atualmente em desenvolvimento) para lidar com fotos de inspeção. Os inspetores respondem aos títulos da lista de verificações, fazem upload de registros e gerenciam as auditorias no aplicativo para desktop. O sistema é estruturado em pares de modelos de listas de verificação e relatórios. As listas de verificação são compostas de vários itens, e os modelos de relatório são programados com base em documentos do Word fornecidos.",
+    "How is the company structure organized in the system?": "Como a estrutura da empresa está organizada no sistema?"
 }
