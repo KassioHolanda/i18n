@@ -473,5 +473,7 @@
     "Source": "Fonte",
     "Variable Datatype": "Tipo de Dados Variável",
     "text": "Texto",
-    "number": "Número"
+    "number": "Número",
+    "Remove category": "Remover Categoria",
+    "Are you sure you want to delete this category?": "Você tem certeza que deseja remover essa categoria?"
 }
