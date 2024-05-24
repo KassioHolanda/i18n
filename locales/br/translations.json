@@ -64,7 +64,7 @@
     "Downloading file...": "Baixando arquivo...",
     "Files downloaded successfully": "Download concluído com sucesso",
     "Audit": "Inspeção",
-    "audit": "Inspeções",
+    "audit": "inspeção",
     "Date of Audit": "Data da Inspeção",
     "Asset": "Aeronave",
     "No report file found": "Nenhum relatório encontrado",
@@ -394,7 +394,7 @@
     "Safety": "Segurança",
     "Recurrent/Mid Lease": "Recorrente/Locação intermediária",
     "Valuation": "Avaliação",
-    "Physical + Records": "Físico e Registros",
+    "Physical + Records": "Físico + Registros",
     "Ordered By": "Ordenado Por",
     "Additional Inspectors": "Inspetores Adicionais",
     "Lead Inspector/Supervisor": "Inspetor Lider/Supervisor",
@@ -504,5 +504,7 @@
     "You can contact us by email (support@mandatech.com.br) and by WhatsApp (+1 (805) 912-8428) and all Tickets will be responded to within 24 hours with either a fix or an action plan. Videos and AI-integrated user instructions are being developed and it will be available soon.": "Você pode entrar em contato conosco por e-mail (support@mandatech.com.br) e pelo WhatsApp (+1 (805) 912-8428), e todos os chamados serão respondidos dentro de 24 horas com uma solução ou um plano de ação. Vídeos e instruções de usuário integradas com IA estão sendo desenvolvidos e estarão disponíveis em breve.",
     "How long does it take to receive a response to a submitted ticket?": "Quanto tempo leva para receber uma resposta a um chamado enviado?",
     "We have 24 hours to return a ticket opened by you with more information, either fixing the problem reported or informing you of the action plan.": "Temos 24 horas para responder a um chamado aberto por você com mais informações, seja corrigindo o problema relatado ou informando sobre o plano de ação.",
-    "Answers to common questions": "Respostas para perguntas comuns"
+    "Answers to common questions": "Respostas para perguntas comuns",
+    "My Account": "Minha Conta",
+    "Log out": "Sair"
 }
