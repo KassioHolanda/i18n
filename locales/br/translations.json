@@ -521,5 +521,76 @@
     "How can I get help and support for the system?": "Como posso obter ajuda e suporte para o sistema?",
     "You can contact us by email (support@mandatech.com.br) and by WhatsApp (+1 (805) 912-8428) and all Tickets will be responded to within 24 hours with either a fix or an action plan. Videos and AI-integrated user instructions are being developed and it will be available soon.": "Você pode entrar em contato conosco por e-mail (support@mandatech.com.br) e pelo WhatsApp (+1 (805) 912-8428), e todos os chamados serão respondidos dentro de 24 horas com uma solução ou um plano de ação. Vídeos e instruções de usuário integradas com IA estão sendo desenvolvidos e estarão disponíveis em breve.",
     "How long does it take to receive a response to a submitted ticket?": "Quanto tempo leva para receber uma resposta a um chamado enviado?",
-    "We have 24 hours to return a ticket opened by you with more information, either fixing the problem reported or informing you of the action plan.": "Temos 24 horas para responder a um chamado aberto por você com mais informações, seja corrigindo o problema relatado ou informando sobre o plano de ação."
+    "We have 24 hours to return a ticket opened by you with more information, either fixing the problem reported or informing you of the action plan.": "Temos 24 horas para responder a um chamado aberto por você com mais informações, seja corrigindo o problema relatado ou informando sobre o plano de ação.",
+    "Hello {{new_user}},
+
+It's A pleasure to have you on board!
+
+We added you as a user on EyesOn Asset, our Smart Audit System. You will be able to see all audits authorized for your profile from your company in our system.
+
+1.User Profile:
+
+Your current profile is: {{profile}}
+
+
+2.User initial credentials:
+
+Please click here for your first login: eyesonasset.com
+
+login: {{login}}
+
+password: {{password}}
+
+3.Security information:
+
+You know data and information protection is crucial in our business. The system has a built in Multi Factor Authentication (MFA), upon each login attempt it will send to your email a PIN, you will need it to login.
+
+If this is your first login or you are resetting your password, it will ask you a new password - ATTENTION!! It needs to be at least 8 characters long, have at least 1 number, 1 caps letter, 1 special character. You can not use the last 3 passwords you've had with us.
+
+If you do not login the system for 60 days your user will move to inactive, and you will have to request to your company manager or to eyeson staff to reset your user credentials.
+
+After logging in:
+
+a) If you stay more than 1 hour without any activity in the system, Karen, our System Management Manager and beloved AI will log you off.
+
+b) if you close the browser window, Karen, our System Management Manager and beloved AI will log you off.
+
+c) You can not have multiple instances of the system opened at the same time, Karen would not allow it.
+
+3.Android APP
+
+We have the mobile app available for download at Google Play Store: https://play.google.com/store/apps/details?id=com.anonymous.eyesonapp&pcampaignid=web_share
+
+If you have an android cellphone/tablet, you can go to the Google play store and download the EyesOn Asset app, log in with the same credentials you have for the web application. 
+
+ATTENTION!: The app currently only works if you have internet access.
+
+a) You will see the list of audits you are authorized to see for your company.
+
+b) Click in the Audit you want to work on, the physical checklist will show up.
+
+c) if you are the auditor in charge of the audit, click in each section and follow the instructions to add the photos:
+           i) You can use the app to take the pictures or you can add pictures from your gallery.
+
+           ii) If you use the app to take the picture, make sure you do it in the vertical position, otherwise the picture will show up rotated.
+
+           iii) for close ups and horizontal pictures we recommend you use your cellphone camera, and then add it from the gallery into the app.
+
+ATTENTION!: If you are not the auditor responsible for the physical inspection, you can still see the report being populated, but PLEASE, do not add any picture or information yourself.
+
+4.Help/Support
+
+Zeh Quick Answer is our Chief Answering Officer and our most valued AI. He is there to provide you with the best answer we have to any of your doubts about the system (I would not rely in Zeh's answers for more philosophical stuff).
+
+If you have any questions or doubts you can click on the top right of the web application - Contact Zeh! - and send him your bug, doubt or suggestion. You can also (I strongly recommend you doing it) add +1 805-912-8428 to your WhatsApp.
+
+Of course, if nothing works the way you think it should work, you can always reach Shailon Ian, at shailon@vinciaero.com or on his whatsapp +55 11 944720605. Shailon is the CEO of Mandatech and he is not a bot or an AI.
+
+5. Terms of Service and Privacy policy
+
+At any time you can read our Terms of Service (https://www.eyesonasset.com/terms) and our Privacy policy (https://www.eyesonasset.com/privacy)
+
+By logging in for the first time you accept both.
+
+Best regards.": ""
 }
